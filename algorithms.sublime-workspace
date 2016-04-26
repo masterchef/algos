@@ -1,0 +1,2957 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max_sum〔function〕"
+			],
+			[
+				"chi",
+				"child_result"
+			],
+			[
+				"po",
+				"powerSet〔function〕"
+			],
+			[
+				"ne",
+				"new_children"
+			],
+			[
+				"black",
+				"black_count〔variable〕"
+			],
+			[
+				"nex",
+				"next_location〔variable〕"
+			],
+			[
+				"rounded",
+				"rounded_y"
+			],
+			[
+				"loc",
+				"location_key"
+			],
+			[
+				"dearh",
+				"death_index〔variable〕"
+			],
+			[
+				"birth",
+				"birth_index"
+			],
+			[
+				"dea",
+				"death_index〔variable〕"
+			],
+			[
+				"bit",
+				"birth_index〔variable〕"
+			],
+			[
+				"yea",
+				"year_population_index〔variable〕"
+			],
+			[
+				"uni",
+				"unique_characters〔variable〕"
+			],
+			[
+				"sor",
+				"sorted_chars〔variable〕"
+			],
+			[
+				"char",
+				"char_count〔variable〕"
+			],
+			[
+				"cha",
+				"char_count〔variable〕"
+			],
+			[
+				"c",
+				"char_count"
+			],
+			[
+				"d",
+				"d_ix"
+			],
+			[
+				"me",
+				"merge_sort〔function〕"
+			],
+			[
+				"son",
+				"song_list〔argument〕"
+			],
+			[
+				"new",
+				"new_song〔argument〕"
+			],
+			[
+				"longe",
+				"longest_negative_sequence_from_index〔variable〕"
+			],
+			[
+				"lon",
+				"longest_negative_sequence_from_index〔variable〕"
+			],
+			[
+				"logepos",
+				"longest_positive_sequence_from_index〔variable〕"
+			],
+			[
+				"long",
+				"longest_pos_seq"
+			],
+			[
+				"longest",
+				"longest_sequence_from_index〔variable〕"
+			],
+			[
+				"attr",
+				"attributes_to_index"
+			],
+			[
+				"cehc",
+				"checkbox_attribute"
+			],
+			[
+				"inp",
+				"input_attribute"
+			],
+			[
+				"che",
+				"checkbox_attribute〔variable〕"
+			],
+			[
+				"select",
+				"select_attribute"
+			],
+			[
+				"all",
+				"all_attributes"
+			],
+			[
+				"sele",
+				"selected_option〔variable〕"
+			],
+			[
+				"Fami",
+				"FamilyAttribute"
+			],
+			[
+				"att",
+				"attribute_params〔function〕"
+			],
+			[
+				"cont",
+				"content_tag"
+			],
+			[
+				"fulfi",
+				"fulfillment_request"
+			],
+			[
+				"deli",
+				"delivery_time"
+			],
+			[
+				"inve",
+				"inventory_unit_ids"
+			],
+			[
+				"li",
+				"list_id"
+			],
+			[
+				"kla",
+				"klaviyo_request"
+			],
+			[
+				"ver",
+				"version〔argument〕"
+			],
+			[
+				"versi",
+				"version2〔variable〕"
+			],
+			[
+				"vers",
+				"version1〔variable〕"
+			],
+			[
+				"ve",
+				"version_numbers"
+			],
+			[
+				"askin",
+				"asking_price"
+			],
+			[
+				"user",
+				"user_share〔variable〕"
+			],
+			[
+				"product",
+				"product_invoice"
+			],
+			[
+				"con",
+				"consignment_agreement_line"
+			],
+			[
+				"cal",
+				"calculated_asking_price〔variable〕"
+			],
+			[
+				"en",
+				"env"
+			],
+			[
+				"co",
+				"company"
+			],
+			[
+				"com",
+				"company_id"
+			],
+			[
+				"inst",
+				"instance_name"
+			],
+			[
+				"does",
+				"does_not_send_reminder〔function〕"
+			],
+			[
+				"algo",
+				"algolia_link〔variable〕"
+			],
+			[
+				"pro",
+				"product_id〔function〕"
+			],
+			[
+				"avail",
+				"availability_errors"
+			],
+			[
+				"listing",
+				"listing_errors"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"prod",
+				"prod_id"
+			],
+			[
+				"lis",
+				"listing_errors〔function〕"
+			],
+			[
+				"ava",
+				"availability_errors"
+			],
+			[
+				"avai",
+				"availability_errors〔variable〕"
+			],
+			[
+				"update",
+				"update_availability"
+			],
+			[
+				"invn",
+				"inventory_units"
+			],
+			[
+				"in",
+				"inventory_unit"
+			],
+			[
+				"list",
+				"listing_errors"
+			],
+			[
+				"produ",
+				"products〔variable〕"
+			],
+			[
+				"curr",
+				"current_zip_code_id"
+			],
+			[
+				"zi",
+				"zip_code"
+			],
+			[
+				"z",
+				"zip_code"
+			],
+			[
+				"to",
+				"to_zip"
+			],
+			[
+				"shi",
+				"shiphawk_item_name"
+			],
+			[
+				"curren",
+				"current_zip_code"
+			],
+			[
+				"deliv",
+				"delivery_address"
+			],
+			[
+				"vali",
+				"validation_hash"
+			],
+			[
+				"ship",
+				"shipping_units"
+			],
+			[
+				"hei",
+				"height_option"
+			],
+			[
+				"le",
+				"let"
+			],
+			[
+				"he",
+				"height_attribute"
+			],
+			[
+				"wi",
+				"width_attribute"
+			],
+			[
+				"submiss",
+				"submission_line"
+			],
+			[
+				"fami",
+				"family_attribute"
+			],
+			[
+				"famil",
+				"family_attribute_option"
+			],
+			[
+				"with",
+				"with_units"
+			],
+			[
+				"opti",
+				"option_params〔variable〕"
+			],
+			[
+				"submit",
+				"submit_order"
+			],
+			[
+				"fuf",
+				"fulfillment_requests"
+			],
+			[
+				"read",
+				"ready_to_schedule!"
+			],
+			[
+				"inventory",
+				"inventory_units"
+			],
+			[
+				"submis",
+				"submission_line"
+			],
+			[
+				"option",
+				"option_set"
+			],
+			[
+				"optio",
+				"option_group_set〔function〕"
+			],
+			[
+				"third",
+				"third_party_option_group〔variable〕"
+			],
+			[
+				"ready",
+				"ready_to_schedule"
+			],
+			[
+				"inclu",
+				"includes_an_in_home_product?〔function〕"
+			],
+			[
+				"line",
+				"lines_to_be_shipped_by_third_party〔variable〕"
+			],
+			[
+				"lines",
+				"lines_to_be_shipped_by_third_party"
+			],
+			[
+				"subms",
+				"submission_line"
+			],
+			[
+				"error",
+				"error_message"
+			],
+			[
+				"succe",
+				"success_message"
+			],
+			[
+				"drop",
+				"dropship"
+			],
+			[
+				"availab",
+				"available_options"
+			],
+			[
+				"option_g",
+				"option_group_set"
+			],
+			[
+				"ord",
+				"order_return"
+			],
+			[
+				"in_ho",
+				"in_home_submission"
+			],
+			[
+				"pr",
+				"params"
+			],
+			[
+				"service",
+				"service_area_id"
+			],
+			[
+				"current",
+				"current_region"
+			],
+			[
+				"have",
+				"have_content"
+			],
+			[
+				"stop",
+				"stop_address〔variable〕"
+			],
+			[
+				"fu",
+				"fulfillment_address"
+			],
+			[
+				"sub",
+				"sub_address〔variable〕"
+			],
+			[
+				"fulf",
+				"fulfillment_requests"
+			],
+			[
+				"av",
+				"available_for_sale"
+			],
+			[
+				"Ful",
+				"Fulfillment::Requests::Transportation"
+			],
+			[
+				"ful",
+				"fulfillment_requests"
+			],
+			[
+				"time",
+				"time_slot〔variable〕"
+			],
+			[
+				"sched",
+				"schedulable_products"
+			],
+			[
+				"sche",
+				"schedulable_units〔variable〕"
+			],
+			[
+				"fulfillment",
+				"fulfillment_requests"
+			],
+			[
+				"requesp",
+				"requested_pickup_window"
+			],
+			[
+				"del",
+				"delegate"
+			],
+			[
+				"subo",
+				"submission_form"
+			],
+			[
+				"bulk",
+				"bulk_submission"
+			],
+			[
+				"over",
+				"overflow"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "dynamic_programming/longest_sequence.py",
+			"settings":
+			{
+				"buffer_size": 512,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dynamic_programming/zigzag_sequence.py",
+			"settings":
+			{
+				"buffer_size": 3113,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sorting/mp3_player.py",
+			"settings":
+			{
+				"buffer_size": 1137,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sorting/mp3_player_merge_sort.py",
+			"settings":
+			{
+				"buffer_size": 1385,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "codefights/max_sum.py",
+			"settings":
+			{
+				"buffer_size": 534,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "strings/knuth_morris_pratt.py",
+			"settings":
+			{
+				"buffer_size": 1684,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "strings/unique_characters.py",
+			"settings":
+			{
+				"buffer_size": 578,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "codefights/powerset.py",
+			"settings":
+			{
+				"buffer_size": 250,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "fb/coordinate_sort.py",
+			"settings":
+			{
+				"buffer_size": 1724,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "codefights/chess_board.py",
+			"settings":
+			{
+				"buffer_size": 3332,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Ruby/Ruby.sublime-build",
+					""
+				],
+				[
+					"Packages/RSpec/RSpec - Bundle Exec.sublime-build",
+					""
+				],
+				[
+					"Packages/RSpec/RSpec.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/RSpec/RSpec - Bundle Exec.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"last_filter": "git bla",
+		"selected_items":
+		[
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"git lo",
+				"Git: Log Current File"
+			],
+			[
+				"gitlo",
+				"Git: Log Current File"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git l",
+				"Git: Log Current File"
+			],
+			[
+				"gil",
+				"Git: Log Current File"
+			],
+			[
+				"git b",
+				"Git: Blame"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"gitlog",
+				"Git: Log Current File"
+			],
+			[
+				"git log ",
+				"Git: Log Current File"
+			],
+			[
+				"git lot",
+				"Git: Log Current File"
+			],
+			[
+				"gith",
+				"Github: History"
+			],
+			[
+				"git hi",
+				"Github: History"
+			],
+			[
+				"git",
+				"Github: Blame"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"rspe",
+				"Build With: RSpec - Bundle Exec"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git chan",
+				"Git: Change Branch"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"gi pu",
+				"Git: Pull"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Diff Staged Files"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"gitcha",
+				"Git: Change Branch"
+			],
+			[
+				"git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git commit ",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git mer",
+				"Git: Merge Branch"
+			],
+			[
+				"git chang",
+				"Git: Change Branch"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"git chec",
+				"Git: Change Branch"
+			],
+			[
+				"gitdiffcu",
+				"Git: Diff Current File"
+			],
+			[
+				"git cha",
+				"Git: Change Branch"
+			],
+			[
+				"git bra",
+				"Git: Change Branch"
+			],
+			[
+				"git an",
+				"Git: New Branch"
+			],
+			[
+				"git anon",
+				"Git: Toggle Annotations"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git gui",
+				"Git: Gui"
+			],
+			[
+				"git reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"gitst",
+				"Git: Status"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"bundle install",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/muzhikas1/Projects/algorithms",
+		"/Users/muzhikas1/Projects/algorithms/codefights",
+		"/Users/muzhikas1/Projects/algorithms/fb",
+		"/Users/muzhikas1/Projects/algorithms/sorting"
+	],
+	"file_history":
+	[
+		"/Users/muzhikas1/Projects/algorithms/fb/coordinate_sort.py",
+		"/Users/muzhikas1/Projects/algorithms/codefights/chess_board.py",
+		"/Users/muzhikas1/Projects/algorithms/fb/population.py",
+		"/Users/muzhikas1/Projects/algorithms/codefights/shortes_path.py",
+		"/Users/muzhikas1/Projects/algorithms/codefights/shorted_path.py",
+		"/Users/muzhikas1/Projects/moveloot_server/app/helpers/application_helper.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/product/view_concerns.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/product/algolia_concerns.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/product/product.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/family_attribute.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/gems/blackbird_search/lib/blackbird_search.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/gems/blackbird_search/lib/blackbird/blackbird_api.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/services/inventory/textur_inventory_monitor.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/inventory_unit.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/product/blackbird_concerns.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/controllers/admin/family_attributes_controller.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/utility/klaviyo_api.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/controllers/api/v1/base_controller.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/engines/fulfillment/app/models/fulfillment/fulfillables/order.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/engines/fulfillment/app/models/fulfillment/inventory_unit_request_builder.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/number_family_attribute.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/config/database.yml",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/family_attribute_option.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/jobs/inventory/geocode_worker.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/payments/invoice_lines/product_invoice_line.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/forms/order_checkout_form.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/presenters/product_presenter.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/presenters/family_attribute_presenter.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/returns/return_line.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/payments/invoice_lines/invoice_line.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/inventory_unit_piece.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/forms/family_attributes_form.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/config/routes/admin_routes.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/config/application.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/config/environments/development.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/config/environments/sandbox.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/config/environments/staging.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/money_family_attribute.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/controllers/orders_controller.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/forms/order_scheduling_form.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/forms/scheduling_form.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/models/forms/submission_line_attributes_form_spec.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/features/browser/sell_spec.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/mailers/send_with_us_mailer/truck_stop_email_concerns.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/models/lootix/lootix_submission_factory_spec.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/lootix/lootix_submission_factory.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/controllers/admin/family_attributes_controller_spec.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/engines/fulfillment/app/models/fulfillment/scheduler.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/views/admin/family_attributes/_option.html.haml",
+		"/Users/muzhikas1/Projects/moveloot_server/app/views/admin/shared/_family_attributes.html.haml",
+		"/Users/muzhikas1/Projects/moveloot_server/app/views/admin/family_attributes/_form.html.haml",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/models/family_attribute_spec.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/factories/family_attributes_factory.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/submissions/base_submission_line.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/factories/item_family_factory.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/support/select2_helper.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/factories/family_attribute_options_factory.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/payments/invoice_line_inventory_unit.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/controllers/api/v1/admin/orders_controller.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/order.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/queries/available_inventory_units_for_delivery.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/controllers/orders_controller_spec.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/lib/tasks/product_families_and_attributes.csv",
+		"/Users/muzhikas1/Projects/moveloot_server/app/presenters/base_presenter.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/shipping_cost_calculator.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/product/shipping_concerns.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/presenters/product_thumb_presenter.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/region.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/views/admin/family_attributes/_edit_option.html.haml",
+		"/Users/muzhikas1/Projects/moveloot_server/app/forms/order_form.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/models/submission_workflow_spec.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/submissions/workflow/submission_workflow.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/subscription.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/views/admin/family_attributes/edit.html.haml",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/product/legacy_concerns.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/product/in_home_product.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/config/initializers/algoliasearch.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/gems/blackbird_search/blackbird_search.gemspec",
+		"/Users/muzhikas1/Projects/moveloot_server/gems/blackbird_search/spec/integration_spec.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/views/admin/bookings/new.html.haml",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/models/utility/klaviyo_api_spec.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/lootix/lootix_submission_attribute_converter.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/assets/javascripts/pages/admin/family_attributes.js",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/image.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/item_family.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/views/admin/family_attributes/_edit_options.html.haml",
+		"/Users/muzhikas1/Projects/moveloot_server/db/migrate/20160407164826_add_default_option_column_to_family_attribut_option.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/datatables/available_for_sale_datatable.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/db/migrate/20160406224711_add_default_to_family_attributes.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/db/migrate/20160406213947_add_key_to_family_attributes.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/engines/transporter/client/node_modules/uglify-js/lib/output.js",
+		"/Users/muzhikas1/Projects/moveloot_server/db/migrate/20160406213458_add_type_to_family_attributes.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/inventory_unit/locations.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/views/submissions/_what_is_next.html.haml",
+		"/Users/muzhikas1/Projects/moveloot_server/app/views/submissions/_what_next.html.haml",
+		"/Users/muzhikas1/Projects/moveloot_server/engines/fulfillment/app/models/fulfillment/requests/transportation.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/inventory_unit/state_concerns.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/controllers/admin/dwolla/oauth_controller.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/actions/scheduling/send_truck_stop_receipt.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/jobs/submission_pickup_email_worker.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/mailers/send_with_us_mailer/submission_email_concerns.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/engines/fulfillment/app/models/fulfillment/fulfillables/submission.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/controllers/api/v2/base_controller.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/lib/moveloot/global_helpers_spec.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/user_preferences.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/config/initializers/blackbirdsearch.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/Gemfile",
+		"/Users/muzhikas1/Projects/moveloot_server/lib/tasks/submission.rake",
+		"/Users/muzhikas1/Projects/moveloot_server/app/controllers/subscriptions_controller.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/assets/javascripts/application.js.erb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/models/payments/consignment_agreement_line_spec.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/pricing/flat_pricing_calculator.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/models/pricing/flat_pricing_calculator_spec.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/controllers/api/v2/orders_api_controller_spec.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/lib/moveloot/global_helpers.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/controllers/api/v1/orders_api_controller_spec.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/vendors/vendor.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/services/fulfillment_monitor.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/controllers/api/v2/orders_controller.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/ownership_agreements/consignment_agreement_line.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/support/json_validators.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/models/payments/consignment_agreement_spec.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/features/actions/generate_payout_spec.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/spec/models/payments/payout_spec.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/product_family_attribute_option.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/jobs/reset_excluded_regions_job.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/models/lootix/lootix_location_attribute_converter.rb",
+		"/Users/muzhikas1/Projects/moveloot_server/app/views/admin/featured_sellers/_gallery_image.html.haml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/ap",
+			"/Users/muzhikas1/Projects/moveloot_server/app/views",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/app/assets",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/engines",
+			"/Users/muzhikas1/Projects/moveloot_server/",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/spec",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/",
+			"/Users/muzhikas1/Projects/moveloot_server/config",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/app/views",
+			"/Users/muzhikas1/Projects/moveloot_server/config",
+			"/Users/muzhikas1/Projects/moveloot_server/engines",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/app/assets",
+			"/Users/muzhikas1/Projects/moveloot_server/config",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/engines",
+			"/Users/muzhikas1/Projects/moveloot_server/",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/engines",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/engines",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/engines",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/config",
+			"/Users/muzhikas1/Projects/moveloot_server/engines",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/",
+			"/Users/muzhikas1/Projects/moveloot_server/engines",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/config",
+			"/Users/muzhikas1/Projects/moveloot_server",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/app/views",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/config",
+			"/Users/muzhikas1/Projects/moveloot_server/app/views",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/config",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/engines",
+			"/Users/muzhikas1/Projects/moveloot_server/app/",
+			"/Users/muzhikas1/Projects/moveloot_server/app/controllers",
+			"/Users/muzhikas1/Projects/moveloot_server/app/",
+			"/Users/muzhikas1/Projects/moveloot_server/app/assets",
+			"/Users/muzhikas1/Projects/moveloot_server/app/views",
+			"/Users/muzhikas1/Projects/moveloot_server/app/",
+			"/Users/muzhikas1/Projects/moveloot_server/app/views",
+			"/Users/muzhikas1/Projects/moveloot_server/app/assets",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/",
+			"/Users/muzhikas1/Projects/moveloot_server/app/",
+			"/Users/muzhikas1/Projects/moveloot_server/app/views",
+			"/Users/muzhikas1/Projects/moveloot_server/",
+			"/Users/muzhikas1/Projects/moveloot_server/lib",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/lib",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/engines",
+			"/Users/muzhikas1/Projects/moveloot_server/engine",
+			"/Users/muzhikas1/Projects/moveloot_server/spec",
+			"/Users/muzhikas1/Projects/moveloot_server/",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/",
+			"/Users/muzhikas1/Projects/moveloot_server/lib",
+			"/Users/muzhikas1/Projects/moveloot_server/spec",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/db",
+			"/Users/muzhikas1/Projects/moveloot_server/app/",
+			"/Users/muzhikas1/Projects/moveloot_server/app/assets",
+			"/Users/muzhikas1/Projects/moveloot_server/",
+			"/Users/muzhikas1/Projects/moveloot_server/app/",
+			"/Users/muzhikas1/Projects/moveloot_server/app/assets",
+			"/Users/muzhikas1/Projects/moveloot_server/app/",
+			"/Users/muzhikas1/Projects/moveloot_server/app/assets",
+			"/Users/muzhikas1/Projects/moveloot_server/app/views",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/engines",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/db",
+			"/Users/muzhikas1/Projects/moveloot_server/app/models",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/app/models",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/engines",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/spec",
+			"/Users/muzhikas1/Projects/moveloot_server/spec\\",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/spec",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/spec",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/spec",
+			"/Users/muzhikas1/Projects/moveloot_server/config",
+			"/Users/muzhikas1/Projects/moveloot_server/app/views",
+			"/Users/muzhikas1/Projects/moveloot_server/app/assets",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/app/views",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/engines/transporter",
+			"/Users/muzhikas1/Projects/moveloot_server/app/controllers",
+			"/Users/muzhikas1/Projects/moveloot_server/",
+			"/Users/muzhikas1/Projects/moveloot_server/app/controllers",
+			"/Users/muzhikas1/Projects/moveloot_server/app/controller",
+			"/Users/muzhikas1/Projects/moveloot_server/app/views",
+			"/Users/muzhikas1/Projects/moveloot_server/spec",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/spec",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/spec",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/db",
+			"/Users/muzhikas1/Projects/moveloot_server/app/views",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/app/views",
+			"/Users/muzhikas1/Projects/moveloot_server/app",
+			"/Users/muzhikas1/Projects/moveloot_server/lib"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"0,",
+			"root",
+			"if validNextLocation(current, next_location)",
+			"'2",
+			"', '",
+			"'1",
+			"// ",
+			"diff",
+			"longest_pos_ix",
+			"longest_sequence_from_index",
+			"InventoryChangeEvent",
+			"state_change",
+			"after",
+			"state",
+			"price",
+			"bindi",
+			"blackbird_index!",
+			"blackbird_configurations",
+			"blackbird_index!",
+			"generate_key",
+			"enter_details",
+			"fill_item_details",
+			"enter_details",
+			"fill_item_details",
+			"event",
+			"add_request_to_fulfillable",
+			"schedule",
+			"object",
+			"@object",
+			"object.",
+			"radio_button",
+			"delete_option",
+			"attribute_params",
+			"family_att",
+			"moveloot_can_fulfill_to?",
+			"local_region_ids",
+			"region",
+			"regin",
+			"data-required",
+			"text_field_tag",
+			"content_tag",
+			"h",
+			"view",
+			"attribute.",
+			"  - ",
+			"attribute.",
+			"ProductPresenter",
+			"initia",
+			"geocode_location",
+			"GeocodeWorker",
+			"(.*)\\n",
+			",",
+			"(.*),",
+			"\\n",
+			" ",
+			"\"",
+			", ",
+			"mark_as_delivered",
+			"fulfi",
+			":(\\w+) =>",
+			"pay_after",
+			"payout",
+			"process",
+			"payou",
+			"payout",
+			"SendTruckStopReceipt",
+			"send_stop_receipt_email",
+			"add_sub_with_klaviyo",
+			"get_lists",
+			"klaviyo_request",
+			"list_code",
+			"response",
+			"add_emails_to_list",
+			"binding.pry",
+			"klaviyo_request",
+			"httparty",
+			"remove_from_list",
+			"general_klaviyo_unsubscribe",
+			"exclude_from_list",
+			"remove_from_list",
+			"prices_limited_to_map",
+			"There was a problem unsubscribing you.",
+			"newrelic",
+			"new",
+			"version",
+			"sync_transporter",
+			"check_version",
+			"prices_limited_to_map",
+			"prices_limited_to_map?",
+			"minimum",
+			"min",
+			"@attributes",
+			"reindex",
+			"reinde",
+			"InHomeProduct",
+			"product",
+			"autoload_paths",
+			"product",
+			" ",
+			"regions_eligible_for_moveloot_free_shipping",
+			"moveloot_should_fulfill_no_matter_cost_difference?",
+			"medium_url",
+			"thumb_ur",
+			"color",
+			"image_tag",
+			"form_for",
+			"def form_for",
+			"def image",
+			"def image_tag",
+			"image_tag",
+			"tag",
+			"blackbird_reindex!",
+			"brand",
+			"? do",
+			".format(",
+			"@",
+			"algolia",
+			"blackbird_index!",
+			"algolia_index!",
+			"index",
+			"name",
+			"algoliasearch",
+			"AlgoliaSearch",
+			":name",
+			"not_on_a_restricted_date_by_zip_code?",
+			"restricted_days",
+			"default_time_slot_windows",
+			"compute_time_slots"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"'$1',",
+			"\\n",
+			"'$1',",
+			",",
+			"\\n",
+			"",
+			"\\n",
+			"$1:",
+			"cached_current_price_cents",
+			"00)",
+			"Product.find($1).update_columns(base_price_cents: $2 00)\\n",
+			"00)",
+			"Product.find($1).update_columns(cached_current_price_cents: $2 00)\\n",
+			"Product.find($1).update_columns(cached_current_price_cents: $2\\00)\\n",
+			"Product.find($1).update_columns(cached_current_price_cents: $200)\\n",
+			"Product.find($1).update_columns(cached_current_price: $2)\\n",
+			"Product.find($1).update_columns(cached_current_price: $1)\\n",
+			"Product.find($1).update_columns(cached_current_price: $1)",
+			"blackbird",
+			",",
+			"<a href=\"http$1\">$1</a>",
+			"\\n",
+			"",
+			"process_scheduling",
+			",",
+			"$1:",
+			"Move Loot is the easiest way to buy and sell furniture online. List furniture on our marketplace or browse for pieces in your area and enjoy a hassle-free experience, inclusive of pickup and delivery.",
+			"$1:",
+			",\\n",
+			"$1:",
+			"create(:ready_to_schedule_submission",
+			"create(:scheduled_submission, :with_lines",
+			"create(:with_tiered_moveloot_ownership, :with_lines",
+			"create(:offer_submitted_submission, :with_lines",
+			"create(:ready_to_schedule_submission, :with_lines",
+			"create(:user_scheduled_submission, :with_lines",
+			"create(:offer_submitted_submission, :with_lines",
+			"create(:submission, :with_lines)",
+			"create(:submission, :with_lines,",
+			",",
+			"$1:",
+			",",
+			"$1:",
+			",",
+			",0,",
+			"",
+			",",
+			"$1",
+			"'",
+			"# $1 - The $2",
+			"# Returns $1",
+			"# Returns<",
+			"# Returns",
+			"# $1 The $2",
+			"",
+			"$1:",
+			"create_state",
+			"$1:",
+			"",
+			"admin/shared/family_attributes', object: f.object",
+			"$1:",
+			"ProcessCashoutRequest",
+			"$1:",
+			"CheckCashoutRequest",
+			"Moveloot::AchProcessor.set_tokens",
+			"Moveloot::AchProcessor.tokens",
+			"$1:",
+			"waive_pickup_fee",
+			"SubmissionPickupInvoiceLine",
+			"$1:",
+			"\\n",
+			"\"",
+			"$1:",
+			"\"",
+			"\",\\n",
+			"\",",
+			"\"$1\": \"$2\"",
+			"$1: $2",
+			"$1, $2",
+			"$1,$2",
+			",",
+			"$1:",
+			"can_be_scheduled?",
+			"schedule_submission",
+			"reschedule_submission",
+			"$1:",
+			"accept!",
+			",",
+			"$1:",
+			":ready_to_schedule_submission",
+			"$1:",
+			"Moveloot::Cache.redis",
+			"Moveloot::LogHelper.send_error_alert(e: \"",
+			"Moveloot::LogHelper.send_error_alert(e: e)",
+			"insurances_path",
+			"insurance_path",
+			"$1:",
+			"keys",
+			"process",
+			" ",
+			"$1:",
+			"%td ",
+			"%tr",
+			"",
+			"Moveloot::LogHelper.send_error_alert($1)",
+			"Honeybadger.notify(error_message: $1)",
+			"toggle_on?(",
+			"$1:",
+			"toggle_on",
+			"updated_by: @user.email",
+			"regions: 'sf'",
+			"$1:",
+			"",
+			"$1:",
+			"",
+			"format.js {",
+			"$1:",
+			"opt/nginx",
+			"$1:",
+			"$1: ",
+			"create_and_estimate(",
+			"create_or_update",
+			",",
+			", ",
+			"$1:",
+			"Thanks! We received your submission",
+			"$1:",
+			"as: "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "dynamic_programming/longest_sequence.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								294
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "dynamic_programming/zigzag_sequence.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2735,
+								2735
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 514.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sorting/mp3_player.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								623
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sorting/mp3_player_merge_sort.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								905,
+								905
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "codefights/max_sum.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 534,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								408
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "strings/knuth_morris_pratt.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								651,
+								651
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "strings/unique_characters.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								424,
+								425
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "codefights/powerset.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								250,
+								250
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "fb/coordinate_sort.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1724
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"file": "codefights/chess_board.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								767,
+								767
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.719024628421,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 238.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 228.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "algorithms.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"invenot",
+				"app/models/inventory_unit.rb"
+			],
+			[
+				"product.r",
+				"app/models/product/product.rb"
+			],
+			[
+				"famiatt",
+				"app/models/family_attribute.rb"
+			],
+			[
+				"applicahel",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"algoliacon",
+				"app/models/product/algolia_concerns.rb"
+			],
+			[
+				"blackbicon",
+				"app/models/product/blackbird_concerns.rb"
+			],
+			[
+				"family_attributes/_form.html.haml",
+				"app/views/admin/family_attributes/_form.html.haml"
+			],
+			[
+				"app/models/family_attribute.rb",
+				"app/models/family_attribute.rb"
+			],
+			[
+				"moneyfami",
+				"app/models/money_family_attribute.rb"
+			],
+			[
+				"nufamiattr",
+				"app/models/number_family_attribute.rb"
+			],
+			[
+				"famiattcosp",
+				"spec/controllers/admin/family_attributes_controller_spec.rb"
+			],
+			[
+				"famiattsp",
+				"spec/models/family_attribute_spec.rb"
+			],
+			[
+				"famiattfa",
+				"spec/factories/family_attributes_factory.rb"
+			],
+			[
+				"famiat",
+				"app/models/family_attribute.rb"
+			],
+			[
+				"truck_stop_email_concerns",
+				"app/mailers/send_with_us_mailer/truck_stop_email_concerns.rb"
+			],
+			[
+				"family_attributefa",
+				"spec/factories/family_attributes_factory.rb"
+			],
+			[
+				"itemfamfa",
+				"spec/factories/item_family_factory.rb"
+			],
+			[
+				"famiatfac",
+				"spec/factories/family_attributes_factory.rb"
+			],
+			[
+				"sellsp",
+				"spec/features/browser/sell_spec.rb"
+			],
+			[
+				"lineattrfo",
+				"spec/models/forms/submission_line_attributes_form_spec.rb"
+			],
+			[
+				"familyat",
+				"app/models/family_attribute.rb"
+			],
+			[
+				"famiattoptiofa",
+				"spec/factories/family_attribute_options_factory.rb"
+			],
+			[
+				"famiattspe",
+				"spec/models/family_attribute_spec.rb"
+			],
+			[
+				"attrispec",
+				"spec/models/forms/submission_line_attributes_form_spec.rb"
+			],
+			[
+				"famiattcon",
+				"app/controllers/admin/family_attributes_controller.rb"
+			],
+			[
+				"famiattrsp",
+				"spec/controllers/admin/family_attributes_controller_spec.rb"
+			],
+			[
+				"familattsp",
+				"spec/models/family_attribute_spec.rb"
+			],
+			[
+				"invenu",
+				"app/models/inventory_unit.rb"
+			],
+			[
+				"invoice_line_inventory_unit",
+				"app/models/payments/invoice_line_inventory_unit.rb"
+			],
+			[
+				"availableinventoryunitsfordelivery",
+				"app/queries/available_inventory_units_for_delivery.rb"
+			],
+			[
+				"fulfill/ord",
+				"engines/fulfillment/app/models/fulfillment/fulfillables/order.rb"
+			],
+			[
+				"ordercon",
+				"app/controllers/orders_controller.rb"
+			],
+			[
+				"fami",
+				"app/models/family_attribute.rb"
+			],
+			[
+				"attribu.ht",
+				"app/views/admin/shared/_family_attributes.html.haml"
+			],
+			[
+				"product_families_and_attributes",
+				"lib/tasks/product_families_and_attributes.csv"
+			],
+			[
+				"invenunipi",
+				"app/models/inventory_unit_piece.rb"
+			],
+			[
+				"invoice_line",
+				"app/models/payments/invoice_lines/invoice_line.rb"
+			],
+			[
+				"returnli",
+				"app/models/returns/return_line.rb"
+			],
+			[
+				"attri.ht",
+				"app/views/admin/shared/_family_attributes.html.haml"
+			],
+			[
+				"option.h",
+				"app/views/admin/family_attributes/_option.html.haml"
+			],
+			[
+				"familat",
+				"app/models/family_attribute.rb"
+			],
+			[
+				"familattop",
+				"app/models/family_attribute_option.rb"
+			],
+			[
+				"familattoo",
+				"app/models/family_attribute_option.rb"
+			],
+			[
+				"familyatt",
+				"app/controllers/admin/family_attributes_controller.rb"
+			],
+			[
+				"familyattj",
+				"app/assets/javascripts/pages/admin/family_attributes.js"
+			],
+			[
+				"admirou",
+				"config/routes/admin_routes.rb"
+			],
+			[
+				"itemfami",
+				"app/models/item_family.rb"
+			],
+			[
+				"famil",
+				"app/models/family_attribute.rb"
+			],
+			[
+				"familatt.j",
+				"app/assets/javascripts/pages/admin/family_attributes.js"
+			],
+			[
+				"famiatt/op",
+				"app/views/admin/family_attributes/_option.html.haml"
+			],
+			[
+				"familyattributeoption",
+				"app/models/family_attribute_option.rb"
+			],
+			[
+				"attribucon",
+				"app/controllers/admin/family_attributes_controller.rb"
+			],
+			[
+				"image.r",
+				"app/models/image.rb"
+			],
+			[
+				"defaulop",
+				"db/migrate/20160407164826_add_default_option_column_to_family_attribut_option.rb"
+			],
+			[
+				"db/migrate/20160407164826_add_default_option_column_to_family_attribut_option.rb",
+				"db/migrate/20160407164826_add_default_option_column_to_family_attribut_option.rb"
+			],
+			[
+				"aviladat",
+				"app/datatables/available_for_sale_datatable.rb"
+			],
+			[
+				"shippc",
+				"app/models/shipping_cost_calculator.rb"
+			],
+			[
+				"produ.r",
+				"app/models/product/product.rb"
+			],
+			[
+				"presen",
+				"app/presenters/product_presenter.rb"
+			],
+			[
+				"attribus.ht",
+				"app/views/admin/shared/_family_attributes.html.haml"
+			],
+			[
+				"db/migrate/20160406224711_add_default_to_family_attributes.rb",
+				"db/migrate/20160406224711_add_default_to_family_attributes.rb"
+			],
+			[
+				"familyattco",
+				"app/controllers/admin/family_attributes_controller.rb"
+			],
+			[
+				"familyatt/ed",
+				"app/views/admin/family_attributes/edit.html.haml"
+			],
+			[
+				"dat",
+				"config/database.yml"
+			],
+			[
+				"db/migrate/20160406213947_add_key_to_family_attributes.rb",
+				"db/migrate/20160406213947_add_key_to_family_attributes.rb"
+			],
+			[
+				"db/migrate/20160406213458_add_type_to_family_attributes.rb",
+				"db/migrate/20160406213458_add_type_to_family_attributes.rb"
+			],
+			[
+				"geoco",
+				"app/jobs/inventory/geocode_worker.rb"
+			],
+			[
+				"wha",
+				"app/views/submissions/_what_is_next.html.haml"
+			],
+			[
+				"what",
+				"app/views/submissions/_what_next.html.haml"
+			],
+			[
+				"subscription",
+				"app/models/subscription.rb"
+			],
+			[
+				"fulfill/trans.r",
+				"engines/fulfillment/app/models/fulfillment/requests/transportation.rb"
+			],
+			[
+				"order.r",
+				"app/models/order.rb"
+			],
+			[
+				"truckstopem",
+				"app/mailers/send_with_us_mailer/truck_stop_email_concerns.rb"
+			],
+			[
+				"fulfill/order",
+				"engines/fulfillment/app/models/fulfillment/fulfillables/order.rb"
+			],
+			[
+				"submissionpickupemailworker",
+				"app/jobs/submission_pickup_email_worker.rb"
+			],
+			[
+				"submiwo",
+				"app/models/submissions/workflow/submission_workflow.rb"
+			],
+			[
+				"submiswo",
+				"spec/models/submission_workflow_spec.rb"
+			],
+			[
+				"fulfill/submi",
+				"engines/fulfillment/app/models/fulfillment/fulfillables/submission.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"v1/orderapi",
+				"spec/controllers/api/v1/orders_api_controller_spec.rb"
+			],
+			[
+				"v2/orderapi",
+				"spec/controllers/api/v2/orders_api_controller_spec.rb"
+			],
+			[
+				"orders_api_controller_spec.rb",
+				"spec/controllers/api/v2/orders_api_controller_spec.rb"
+			],
+			[
+				"oderchecfo",
+				"app/forms/order_checkout_form.rb"
+			],
+			[
+				"pflapricsp",
+				"spec/models/pricing/flat_pricing_calculator_spec.rb"
+			],
+			[
+				"flatpricingcalculators",
+				"spec/models/pricing/flat_pricing_calculator_spec.rb"
+			],
+			[
+				"flatpricingcalculator",
+				"app/models/pricing/flat_pricing_calculator.rb"
+			],
+			[
+				"appli.js",
+				"app/assets/javascripts/application.js.erb"
+			],
+			[
+				"submi.r",
+				"lib/tasks/submission.rake"
+			],
+			[
+				"globalhesp",
+				"spec/lib/moveloot/global_helpers_spec.rb"
+			],
+			[
+				"moveloohel",
+				"lib/moveloot/global_helpers.rb"
+			],
+			[
+				"v1/baseco",
+				"app/controllers/api/v1/base_controller.rb"
+			],
+			[
+				"v1/base",
+				"app/controllers/api/v1/base_controller.rb"
+			],
+			[
+				"v2/basec",
+				"app/controllers/api/v2/base_controller.rb"
+			],
+			[
+				"v2/baseco",
+				"app/controllers/api/v2/base_controller.rb"
+			],
+			[
+				"v1/bac",
+				"app/controllers/api/v1/base_controller.rb"
+			],
+			[
+				"v1/basecon",
+				"app/controllers/api/v1/base_controller.rb"
+			],
+			[
+				"endor.r",
+				"app/models/vendors/vendor.rb"
+			],
+			[
+				"vendor.r",
+				"app/models/vendors/vendor.rb"
+			],
+			[
+				"submiss",
+				"lib/tasks/submission.rake"
+			],
+			[
+				"ordercontrspe",
+				"spec/controllers/api/v2/orders_api_controller_spec.rb"
+			],
+			[
+				"orderfo",
+				"app/forms/order_form.rb"
+			],
+			[
+				"ordercheckoutform",
+				"app/forms/order_checkout_form.rb"
+			],
+			[
+				"ordechec",
+				"app/forms/order_checkout_form.rb"
+			],
+			[
+				"produinvoi",
+				"app/models/payments/invoice_lines/product_invoice_line.rb"
+			],
+			[
+				"consignagreeliesp",
+				"spec/models/payments/consignment_agreement_line_spec.rb"
+			],
+			[
+				"agreemes",
+				"spec/models/payments/consignment_agreement_spec.rb"
+			],
+			[
+				"payousp",
+				"spec/features/actions/generate_payout_spec.rb"
+			],
+			[
+				"consignagli",
+				"app/models/ownership_agreements/consignment_agreement_line.rb"
+			],
+			[
+				"alogoliaco",
+				"app/models/product/algolia_concerns.rb"
+			],
+			[
+				"produfamia",
+				"app/models/product_family_attribute_option.rb"
+			],
+			[
+				"produc.r",
+				"app/models/product/product.rb"
+			],
+			[
+				"shippingcon",
+				"app/models/product/shipping_concerns.rb"
+			],
+			[
+				"submii.ra",
+				"lib/tasks/submission.rake"
+			],
+			[
+				"submiss.ra",
+				"lib/tasks/submission.rake"
+			],
+			[
+				"lootiatt",
+				"app/models/lootix/lootix_submission_attribute_converter.rb"
+			],
+			[
+				"lootixatt",
+				"app/models/lootix/lootix_location_attribute_converter.rb"
+			],
+			[
+				"produth",
+				"app/presenters/product_thumb_presenter.rb"
+			],
+			[
+				"producpre",
+				"app/presenters/product_presenter.rb"
+			],
+			[
+				"applica",
+				"config/application.rb"
+			],
+			[
+				"loca",
+				"config/local_env.yml"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"algolico",
+				"app/models/product/algolia_concerns.rb"
+			],
+			[
+				"transpoop",
+				"engines/fulfillment/app/models/fulfillment/transporter_option_group.rb"
+			],
+			[
+				"fufill/cale",
+				"engines/fulfillment/app/models/fulfillment/transporter_calendar_option.rb"
+			],
+			[
+				"zipco",
+				"app/models/zip_code.rb"
+			],
+			[
+				"spec/spec_helper.rb",
+				"spec/spec_helper.rb"
+			],
+			[
+				"ansible/hosts/staging",
+				"ansible/hosts/staging"
+			],
+			[
+				"app/models/lootix/lootix_submission_attribute_converter.rb",
+				"app/models/lootix/lootix_submission_attribute_converter.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projects/ml-server.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"$tag"
+			],
+			[
+				"add_piece",
+				"add_pieces"
+			],
+			[
+				"email_insurance_broker",
+				"email_insurance_broker"
+			]
+		],
+		"width": 530.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
