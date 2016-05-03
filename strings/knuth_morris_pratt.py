@@ -1,60 +1,46 @@
-# Pay attention! 
-# the prefix under index i in the table above is 
-# is the string from pattern[0] to pattern[i - 1] 
-# inclusive, so the last character of the string under 
-# index i is pattern[i - 1]   
+class KmpSearch(object):
+  def __init__(self, s, p):
+    self.s = s
+    self.p = p
 
-def build_failure_function(pattern):
-  print pattern
-  m = len(pattern) + 1
-  # Always true because first two characters
-  # have to proper prefixes/suffixes
-  F = [0] * m
-  F[0] = F[1] = 0 
+  def find(self):
+     self.pmt_table = self.buildPmt()
+     print self.s, self.p
+     print self.pmt_table
+     return self.search()
 
-  for i in range(2, m):
-    j = F[i - 1]
-    while True:
-      print 'j:', j, 'i-1:', i - 1, 'p@j:', pattern[j], 'p@i-1:', pattern[i - 1]
-      #print pattern[j], pattern[i - 1]
-      if pattern[j] == pattern[i - 1]:
-        F[i] = j + 1
-        break
+  def search(self):
+    p_ix = 0
+    s_ix = 0
+    while s_ix < len(self.s):
+      print p_ix, s_ix, self.p[p_ix], self.s[s_ix], self.pmt_table[p_ix]
+      while(p_ix > 0 and self.s[s_ix] != self.p[p_ix]):
+        p_ix = self.pmt_table[p_ix]
+        print p_ix, s_ix, self.p[p_ix], self.s[s_ix], self.pmt_table[p_ix]
 
-      if j == 0:
-        F[i] = 0
-        break
-      else:
-        j = F[j]
-    print F
-  print F
+      p_ix += 1
+      s_ix += 1
 
-build_failure_function('ABABAC')
-build_failure_function('ABADBAC')
-build_failure_function('ABABA')
-build_failure_function('AAAAA')
-# function build_failure_function(pattern[])
-# {
-#   // let m be the length of the pattern 
+      if p_ix == len(self.p):
+        return s_ix - len(self.p)
 
-#   F[0] = F[1] = 0; // always true
-  
-#   for(i = 2; i <= m; i++) {
-#     // j is the index of the largest next partial match 
-#     // (the largest suffix/prefix) of the string under  
-#     // index i - 1
-#     j = F[i - 1];
-#     for( ; ; ) {
-#       // check to see if the last character of string i - 
-#       // - pattern[i - 1] "expands" the current "candidate"
-#       // best partial match - the prefix under index j
-#       if(pattern[j] == pattern[i - 1]) { 
-#         F[i] = j + 1; break; 
-#       }
-#       // if we cannot "expand" even the empty string
-#       if(j == 0) { F[i] = 0; break; }
-#       // else go to the next best "candidate" partial match
-#       j = F[j];
-#     }
-#   }   
-# }
+    return -1
+
+  # Builds partial match table
+  def buildPmt(self):
+    i = 1
+    j = 0
+    result = [0] * len(self.p)
+    while i < len(self.p):
+      if self.p[i] == self.p[j]:
+        result[i] = j + 1
+        j += 1
+      elif j > 0:
+        j = result[j-1]
+        i -= 1
+      i += 1
+    return result
+
+#print KmpSearch('abcabdababdabcabdabdabc', 'abcabdabc').find()
+print KmpSearch('xababababc', 'ababc').find()
+
